@@ -165,6 +165,3 @@ Response: HTTP 200
     "17:00 Networking Event"
 ]
 ```
-### To view Swagger API docs
-
-Run the server and browse to localhost:8000/swagger-ui/index.html/
